@@ -3,7 +3,7 @@ Summary:	pygdbmi
 Summary(pl.UTF-8):	pygdbmi
 Name:		python3-%{module}
 Version:	0.11.0.0
-Release:	1
+Release:	2
 License:	BSD-like
 Group:		Libraries/Python
 #Source0Download:	https://pypi.org/simple/pygdbmi/
